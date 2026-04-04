@@ -9,9 +9,9 @@
 
 // Add your code right below, good luck!
 
-const firstName = "Carlos" , lastName = "Stevenson", fullName = firstName + " " + lastName
-const thisYear = 1965, birthYear = 1947, age = thisYear - birthYear
-const greeting = "Hello! My name is "+ fullName + " and I am " + age + " years old."
+const firstName = "Carlos" , lastName = "Stevenson", fullName = firstName + " " + lastName;
+const thisYear = 1965, birthYear = 1947, age = thisYear - birthYear;
+const greeting = "Hello! My name is "+ fullName + " and I am " + age + " years old.";
 
 // Do not change this
 module.exports = {
